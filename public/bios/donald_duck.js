@@ -17,7 +17,7 @@ const data = {
   nameLink: { firstName: 'Donald:  ', url: 'https://en.wikipedia.org/wiki/Donald_Duck' },
   primaryDescription: 'A world-renowned web developer known for his innovative solutions and unique approach to problem-solving.',
   workDescription1: 'When he is not starring in animated films, Donald is developing numerous high-profile websites and applications, showcasing his expertise in front-end and back-end technologies.',
-  workDescription2: 'He is a frequent speaker at tech conferences where he frequently, and comically, looses his temper. He has also authored several books on web development best practices which are widely regarded as must-reads for aspiring developers. Check out his best selling book, "Quack Your Way to Web Development Success".',
+  workDescription2: 'He is a frequent speaker at tech conferences where he occasionally, and comically, looses his temper. He has also authored several books on web development best practices which are widely regarded as must-reads for aspiring developers. Check out his best selling book, "Quack Your Way to Web Development Success".',
   linkTitleText: 'Check out more information at the following sites:',
   linkedInLink: { text: 'LinkedIn Profile', link: 'https://www.linkedin.com/in/donald-duck-webdev/' },
   githubLink: { text: 'GitHub Projects', link: 'https://github.com/donald-duck-webdev' },

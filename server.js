@@ -10,7 +10,7 @@ const port = process.env.PORT || 8080;
 app.use(cors());
 
 // Mount the middleware. Routes/index.js will be called if the
-// URL contains the domain name and a forward slash.
+// URL contains the domain path.
 app.use('/', require('./routes'));
 
 // Start the server
